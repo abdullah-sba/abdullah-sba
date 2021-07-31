@@ -14,4 +14,4 @@ $ ls
 
 $ cd abdullah-sba
 
-$ python.~/mdabdullah.py
+$ python.~/abdullah.py
