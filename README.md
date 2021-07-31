@@ -12,6 +12,6 @@ $ git clone https://github.com/abdullah-sba/abdullah-sba
 
 $ ls
 
-$ cd mdabdullah
+$ cd mdabdullah-sba
 
 $ python.~/mdabdullah.py
