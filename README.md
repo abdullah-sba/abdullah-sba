@@ -14,4 +14,8 @@ $ ls
 
 $ cd abdullah-sba
 
-$ python.~/abdullah.py
+$ ls
+
+$ python 'my calculator.py'
+
+
